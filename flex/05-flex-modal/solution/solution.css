@@ -67,11 +67,11 @@ button.cancel {
 
 /* SOLUTION: */
 
-.modal {
+/* .modal {
   display: flex;
   gap: 16px;
   padding: 16px;
-}
+} */
 
 .icon {
   /* this keeps the icon from getting smashed by the text */
